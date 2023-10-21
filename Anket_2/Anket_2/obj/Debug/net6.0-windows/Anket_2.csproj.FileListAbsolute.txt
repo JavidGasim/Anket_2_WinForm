@@ -1,0 +1,16 @@
+C:\Users\gasim\source\repos\Anket_2\Anket_2\bin\Debug\net6.0-windows\Anket_2.exe
+C:\Users\gasim\source\repos\Anket_2\Anket_2\bin\Debug\net6.0-windows\Anket_2.deps.json
+C:\Users\gasim\source\repos\Anket_2\Anket_2\bin\Debug\net6.0-windows\Anket_2.runtimeconfig.json
+C:\Users\gasim\source\repos\Anket_2\Anket_2\bin\Debug\net6.0-windows\Anket_2.dll
+C:\Users\gasim\source\repos\Anket_2\Anket_2\bin\Debug\net6.0-windows\Anket_2.pdb
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\Anket_2.Form1.resources
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\Anket_2.csproj.GenerateResource.cache
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\Anket_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\Anket_2.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\Anket_2.AssemblyInfo.cs
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\Anket_2.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\Anket_2.dll
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\refint\Anket_2.dll
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\Anket_2.pdb
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\Anket_2.genruntimeconfig.cache
+C:\Users\gasim\source\repos\Anket_2\Anket_2\obj\Debug\net6.0-windows\ref\Anket_2.dll
